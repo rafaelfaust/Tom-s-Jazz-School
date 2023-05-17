@@ -4,7 +4,7 @@ Este é o repositório do projeto da landing page do Tom's Jazz School. Esta pá
 
 Você pode visualizar a landing page em [https://tom-s-jazz-school-aeo55d2ha-rafaelfaust.vercel.app/](https://tom-s-jazz-school-aeo55d2ha-rafaelfaust.vercel.app/).
 
-![Tom's Jazz School Landing Page](https://vercel.com/f47c5ac6-57ee-4e2a-a76c-d95fbeb8f4d3)
+![Tom's Jazz School Landing Page](blob:https://vercel.com/f47c5ac6-57ee-4e2a-a76c-d95fbeb8f4d3)
 
 ## Pré-requisitos
 
